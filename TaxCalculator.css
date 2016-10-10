@@ -1,0 +1,24 @@
+body {
+    background-color: cadetblue;}
+
+h1 {
+    color: darkgreen;
+    margin-top: 30px;
+    text-align: center;
+    font-family: Avenir;
+}
+form {
+    color: darkred;
+    font-family: Avenir;
+    text-align: center;
+}
+
+.centerMe {
+   text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#btn
